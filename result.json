@@ -1,0 +1,20 @@
+[
+  {
+    "description": "SCOM web console should have a title",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6465
+  },
+  {
+    "description": "SCOM web console should authenticate",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4859
+  }
+]
